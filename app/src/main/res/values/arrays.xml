@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>ailurophile</item>
+        <item>assemblage</item>
+        <item>becoming</item>
+        <item>beleaguer</item>
+        <item>brood</item>
+        <item>bucolic</item>
+        <item>bungalow</item>
+        <item>chatoyant</item>
+        <item>comely</item>
+        <item>conflate</item>
+        <item>cynosure</item>
+        <item>dalliance</item>
+        <item>demesne</item>
+        <item>demure</item>
+        <item>denouement</item>
+        <item>desuetude</item>
+        <item>desultory</item>
+        <item>diaphanous</item>
+        <item>dissemble</item>
+        <item>dulcet</item>
+        <item>ebullience</item>
+        <item>effervescent</item>
+        <item>efflorescence</item>
+        <item>elision</item>
+        <item>elixir</item>
+        <item>eloquence</item>
+        <item>embrocation</item>
+        <item>emollient</item>
+        <item>ephemeral</item>
+        <item>epiphany</item>
+        <item>erstwhile</item>
+        <item>ethereal</item>
+        <item>evanescent</item>
+    </string-array>
+</resources>
